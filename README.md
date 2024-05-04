@@ -34,4 +34,9 @@ Now to handle the post request to the upload endpoint. The inputstring from the 
 
 First initialise the node. Remmeber to install node from website.   
 ```npm init -y```   
-
+Now install all the required modules by using    
+```npm install express formidable axios serpapi fs ```   
+Run the node app   
+```npm main.js```   
+Run the html page.   
+Type anything in the textfield and click enter.
